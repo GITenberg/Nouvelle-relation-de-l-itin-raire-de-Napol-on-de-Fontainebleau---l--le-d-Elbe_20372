@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9255'
     url: http://www.gutenberg.org/2009/agents/9255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20372#Nouvelle-relation-de-l-itin-raire-de-Napol-on-de-Fontainebleau---l--le-d-Elbe
 gutenberg_bookshelf:
 - France
 - FR Histoire
